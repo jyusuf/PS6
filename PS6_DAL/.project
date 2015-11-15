@@ -3,6 +3,7 @@
 	<name>PS6_DAL</name>
 	<comment></comment>
 	<projects>
+		<project>PS6_JavaFx</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
